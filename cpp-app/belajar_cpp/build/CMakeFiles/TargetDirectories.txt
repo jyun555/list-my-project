@@ -1,0 +1,3 @@
+/home/camela/project/cpp-app/belajar_cpp/build/CMakeFiles/build.dir
+/home/camela/project/cpp-app/belajar_cpp/build/CMakeFiles/edit_cache.dir
+/home/camela/project/cpp-app/belajar_cpp/build/CMakeFiles/rebuild_cache.dir

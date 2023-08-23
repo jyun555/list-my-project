@@ -1,0 +1,3 @@
+/home/camela/project/cpp-app/tlx_toki/build/CMakeFiles/latihan_01.dir
+/home/camela/project/cpp-app/tlx_toki/build/CMakeFiles/edit_cache.dir
+/home/camela/project/cpp-app/tlx_toki/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/latihan_01.dir/src/main.cpp.o -o latihan_01  /usr/lib/x86_64-linux-gnu/libfmt.so.8.1.1 -Wl,--as-needed 

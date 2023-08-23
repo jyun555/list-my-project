@@ -1,0 +1,3 @@
+/home/camela/project/cpp-app/latihan_02/cmake-build-debug/CMakeFiles/latihan_02.dir
+/home/camela/project/cpp-app/latihan_02/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/camela/project/cpp-app/latihan_02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
